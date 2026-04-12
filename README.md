@@ -1,4 +1,4 @@
-<h1 style= "text align='center'">Hello, Rahul Gupta, here</h1>
+<h1 align="centre">Hello, Rahul Gupta, here</h1>
 🚀 Data Structures & Algorithms | Development <br> Currently learning problem solving 💻 and building strong fundamentals📘
 
 
