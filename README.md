@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hello, Rahul Gupta here</h1>
 
 <p align="center">
@@ -37,5 +37,5 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-rahul-07&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
-```
+
 
