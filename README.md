@@ -51,8 +51,15 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
 
 
   
-  
 
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF¢er=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%2B+Spring+Boot+%2B+React+%E2%9A%9B%EF%B8%8F;DSA+Grinder+%F0%9F%A7%A0+%7C+LeetCode+Warrior;Building+scalable+apps+%F0%9F%8F%97%EF%B8%8F;Open+to+collabs+%26+opportunities+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+
+  profile views
+  followers
 
 
 
