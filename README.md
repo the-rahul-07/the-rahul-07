@@ -1,11 +1,3 @@
-
-<h1 align="center">Hello, Rahul Gupta here</h1>
-
-<p align="center">
-🚀 Data Structures & Algorithms | Development <br>
-Currently learning problem solving 💻 and building strong fundamentals 📘
-</p>
-
 <h1 align="center">Hey 👋, I'm Rahul Gupta</h1>
 
 <p align="center">
