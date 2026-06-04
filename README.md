@@ -57,12 +57,6 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=the-rahul-07&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<!-- ========================= METRICS ========================= -->
-
-<p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/the-rahul-07?template=terminal&isocalendar=1&languages=1&achievements=1&followup=1&activity=1" />
-</p>
-
 <!-- ========================= SNAKE CONTRIBUTION ========================= -->
 
 <p align="center">
