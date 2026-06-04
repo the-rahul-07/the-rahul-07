@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;DSA+Enthusiast;Open+Source+Contributor;Learning+Java+and+Spring+Boot;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
 💡 Passionate about problem solving, open source, and continuous learning.
 </p>
 
@@ -46,10 +50,6 @@
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,react,js,html,css,git,github,cpp,python&theme=dark&perline=6" />
 </p>
 
 <!-- ========================= PROFILE DETAILS ========================= -->
