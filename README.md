@@ -58,17 +58,15 @@
 <h2 align="center">🏅 GSSoC 2026 Achievements</h2>
 
 <p align="center">
-  <img src="./assets/gssoc26/gssoc-badge-power_contributor.png" width="110" alt="Power Contributor"/>
-  <img src="./assets/gssoc26/gssoc-badge-on_a_roll.png" width="110" alt="On a Roll"/>
+  <img src="./assests/gssoc26/gssoc-badge-power_contributor.png" width="110"/>
+  <img src="./assests/gssoc26/gssoc-badge-on_a_roll.png" width="110"/>
 </p>
 
 <p align="center">
-  <img src="./assets/gssoc26/gssoc-badge-rising_star.png" width="95" alt="Rising Star"/>
-  <img src="./assets/gssoc26/gssoc-badge-bounty_master.png" width="95" alt="Bounty Master"/>
-  <img src="./assets/gssoc26/gssoc-badge-building_momentum.png" width="95" alt="Building Momentum"/>
+  <img src="./assests/gssoc26/gssoc-badge-rising_star.png" width="95"/>
+  <img src="./assests/gssoc26/gssoc-badge-bounty_master.png" width="95"/>
+  <img src="./assests/gssoc26/gssoc-badge-building_momentum.png" width="95"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/the-rahul-07/the-rahul-07/main/assets/gssoc26/gssoc-badge-power_contributor.png" width="150">
 
 <!-- ========================= PROFILE DETAILS ========================= -->
 
