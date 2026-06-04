@@ -99,7 +99,7 @@
   <img src="https://raw.githubusercontent.com/the-rahul-07/the-rahul-07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<h3 align="center">
+<h3 fontsize = 40 align="center">
 ⭐ Consistency beats intensity.
 </h3>
 
