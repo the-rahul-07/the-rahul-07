@@ -15,7 +15,7 @@
 </p>
 
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/rahul-gupta-25743135a">
