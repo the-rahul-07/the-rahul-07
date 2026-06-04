@@ -58,14 +58,14 @@
 <h2 align="center">🏅 GSSoC 2026 Achievements</h2>
 
 <p align="center">
-  <img src="https://gssoc.girlscript.org/badges/milestone/power_contributor.png" width="140" alt="Power Contributor"/>
-  <img src="https://gssoc.girlscript.org/badges/milestone/on_a_roll.png" width="140" alt="On a Roll"/>
+  <img src="./assets/gssoc/power_contributor.png" width="110" alt="Power Contributor"/>
+  <img src="./assets/gssoc/on_a_roll.png" width="110" alt="On a Roll"/>
 </p>
 
 <p align="center">
-  <img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png" width="120" alt="Rising Star"/>
-  <img src="https://gssoc.girlscript.org/badges/milestone/bounty_master.png" width="120" alt="Bounty Master"/>
-  <img src="https://gssoc.girlscript.org/badges/milestone/building_momentum.png" width="120" alt="Building Momentum"/>
+  <img src="./assets/gssoc/rising_star.png" width="95" alt="Rising Star"/>
+  <img src="./assets/gssoc/bounty_master.png" width="95" alt="Bounty Master"/>
+  <img src="./assets/gssoc/building_momentum.png" width="95" alt="Building Momentum"/>
 </p>
 
 <!-- ========================= PROFILE DETAILS ========================= -->
