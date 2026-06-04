@@ -58,14 +58,14 @@
 <h2 align="center">🏅 GSSoC 2026 Achievements</h2>
 
 <p align="center">
-  <img src="assets/gssoc'26/gssoc-badge-power_contributor.png" width="110" alt="Power Contributor"/>
-  <img src="assets/gssoc'26/gssoc-badge-on_a_roll.png" width="110" alt="On a Roll"/>
+  <img src="./assets/gssoc26/gssoc-badge-power_contributor.png" width="110" alt="Power Contributor"/>
+  <img src="./assets/gssoc26/gssoc-badge-on_a_roll.png" width="110" alt="On a Roll"/>
 </p>
 
 <p align="center">
-  <img src="assets/gssoc'26/gssoc-badge-rising_star.png" width="95" alt="Rising Star"/>
-  <img src="assets/gssoc'26/gssoc-badge-bounty_master.png" width="95" alt="Bounty Master"/>
-  <img src="assets/gssoc'26/gssoc-badge-building_momentum.png" width="95" alt="Building Momentum"/>
+  <img src="./assets/gssoc26/gssoc-badge-rising_star.png" width="95" alt="Rising Star"/>
+  <img src="./assets/gssoc26/gssoc-badge-bounty_master.png" width="95" alt="Bounty Master"/>
+  <img src="./assets/gssoc26/gssoc-badge-building_momentum.png" width="95" alt="Building Momentum"/>
 </p>
 
 <!-- ========================= PROFILE DETAILS ========================= -->
