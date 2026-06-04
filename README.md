@@ -38,8 +38,7 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-rahul-07&theme=tokyonight" />
 </p>
 
-<!-- ========================= STATS + STREAK ========================= -->
-
+<!-- Stats + Streak -->
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-rahul-07&theme=tokyonight" />
   <img width="49%" src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight" />
@@ -49,12 +48,6 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=the-rahul-07&theme=tokyo-night" />
-</p>
-
-<!-- ========================= TROPHIES ========================= -->
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=the-rahul-07&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 <!-- ========================= SNAKE CONTRIBUTION ========================= -->
