@@ -52,7 +52,7 @@
 <h2 align="center">🏆 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="700" />
+  <img src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="80%" />
 </p>
 
 <h2 align="center">🏅 GSSoC 2026 Achievements</h2>
@@ -69,6 +69,7 @@
 </p>
 
 <!-- ========================= PROFILE DETAILS ========================= -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-rahul-07&theme=tokyonight" />
