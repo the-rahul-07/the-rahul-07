@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6a11cb,100:2575fc&text=Rahul%20Gupta&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
-</p>
-
 <h3 align="center">
 🚀 Building • 🌱 Learning • 🤝 Contributing
 </h3>
+</p>
+
 
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;DSA+Enthusiast;Open+Source+Contributor;Learning+Java+and+Spring+Boot" />
