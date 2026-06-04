@@ -61,7 +61,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-rahul-07&theme=tokyonight" />
 </td>
 <td>
-<img src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight&hide_border=true" />
+<!-- <img src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight&hide_border=true" /> -->
+<img src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight&v=2" />
 </td>
 </tr>
 </table>
