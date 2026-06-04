@@ -28,10 +28,10 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-rahul-07&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=the-rahul-07&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-<!-- Profile Summary -->
+<!-- Profile Details -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-rahul-07&theme=tokyonight" />
 </p>
@@ -41,12 +41,26 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-rahul-07&theme=tokyonight" />
 </p>
 
-<!-- Most Used Languages -->
+<!-- Top Languages -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-rahul-07&theme=tokyonight" />
 </p>
 
-<!-- Streak Stats -->
+<!-- Productive Time -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-rahul-07&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=the-rahul-07&theme=tokyonight&row=1&column=7" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-rahul-07&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=the-rahul-07&theme=tokyonight" />
 </p>
