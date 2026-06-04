@@ -52,7 +52,7 @@
 <h2 align="center">🏆 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+  <img width = "100%" src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </p>
 
 <!-- ========================= PROFILE DETAILS ========================= -->
