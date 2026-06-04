@@ -77,6 +77,10 @@
   <img src="https://raw.githubusercontent.com/the-rahul-07/the-rahul-07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+<h3 align="center">
+⭐ Consistency beats intensity.
+</h3>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 </p>
