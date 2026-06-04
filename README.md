@@ -3,23 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Rahul%20Gupta&fontSize=70&fontAlignY=40&animation=twinkling" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a1b27,100:58A6FF&text=Rahul%20Gupta&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Rahul%20Gupta&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:24283b,100:7aa2f7&text=Rahul%20Gupta&fontSize=70&fontColor=c0caf5&animation=twinkling&fontAlignY=40" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:24283b,100:58A6FF&text=Rahul%20Gupta&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 </p>
 
 
