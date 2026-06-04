@@ -26,40 +26,45 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-rahul-07&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
-<!-- Profile Details -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-rahul-07&theme=tokyonight" />
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-rahul-07&theme=tokyonight" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-rahul-07&theme=tokyonight" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=the-rahul-07&theme=tokyonight&row=1&column=7" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-rahul-07&theme=tokyo-night" />
-</p>
+<!-- ========================= PROFILE VIEWS ========================= -->
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=the-rahul-07&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=the-rahul-07&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
 
+<!-- ========================= PROFILE DETAILS ========================= -->
+
 <p align="center">
-  <img src="https://metrics.lecoq.io/the-rahul-07?template=terminal&isocalendar=1&languages=1&achievements=1&followup=1&activity=1" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-rahul-07&theme=tokyonight" />
+</p>
+
+<!-- ========================= STATS + STREAK ========================= -->
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-rahul-07&theme=tokyonight" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight" />
+</p>
+
+<!-- ========================= ACTIVITY GRAPH ========================= -->
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=the-rahul-07&theme=tokyo-night" />
+</p>
+
+<!-- ========================= TROPHIES ========================= -->
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=the-rahul-07&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<!-- ========================= METRICS ========================= -->
+
+<p align="center">
+  <img width="100%" src="https://metrics.lecoq.io/the-rahul-07?template=terminal&isocalendar=1&languages=1&achievements=1&followup=1&activity=1" />
+</p>
+
+<!-- ========================= SNAKE CONTRIBUTION ========================= -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/the-rahul-07/the-rahul-07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
