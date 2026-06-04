@@ -33,6 +33,26 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
   </a>
 </p>
 
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-gupta-25743135a">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  </a>
+  <a href="https://instagram.com/_the_rahul__07">
+    <img src="https://skillicons.dev/icons?i=instagram" width="55" />
+  </a>
+  <a href="mailto:rahulgupta2019007@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/RahulGupta3214">
+    X / @RahulGupta3214
+  </a>
+</p>
+
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
