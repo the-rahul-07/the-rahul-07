@@ -6,6 +6,17 @@
 Currently learning problem solving 💻 and building strong fundamentals 📘
 </p>
 
+<h1 align="center">Hey 👋, I'm Rahul Gupta</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer+⚡;DSA+Enthusiast+🧩;Open+Source+Contributor+🚀;Learning+Java+%26+Spring+Boot+🌱;Building+Projects+and+Growing+Every+Day+💻" />
+</p>
+
+<p align="center">
+  🚀 Passionate about problem solving, open source, and continuous learning
+</p>
+
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
