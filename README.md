@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Rahul%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6a11cb,100:2575fc&text=Rahul%20Gupta&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 </p>
 
