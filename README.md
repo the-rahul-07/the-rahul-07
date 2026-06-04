@@ -68,6 +68,8 @@
   <img src="./assets/gssoc26/gssoc-badge-building_momentum.png" width="95" alt="Building Momentum"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/the-rahul-07/the-rahul-07/main/assets/gssoc26/gssoc-badge-power_contributor.png" width="150">
+
 <!-- ========================= PROFILE DETAILS ========================= -->
 
 <p align="center">
