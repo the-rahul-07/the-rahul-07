@@ -26,14 +26,27 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-rahul-07&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://komarev.com/ghpvc/?username=the-rahul-07&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+<!-- Profile Summary -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=the-rahul-07&theme=tokyonight&hide_border=false" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-rahul-07&theme=tokyonight" />
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-rahul-07&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-rahul-07&theme=tokyonight" />
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-rahul-07&theme=tokyonight" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight" />
 </p>
