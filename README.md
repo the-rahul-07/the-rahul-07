@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Rahul%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
-</p>
-
 <h3 align="center">
 🚀 Building • 🌱 Learning • 🤝 Contributing
 </h3>
@@ -83,4 +79,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/the-rahul-07/the-rahul-07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 </p>
