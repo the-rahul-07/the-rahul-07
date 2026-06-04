@@ -32,6 +32,12 @@
   </a>
 </p>
 
+<!-- ========================= PROFILE VIEWS ========================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=the-rahul-07&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
+
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
@@ -42,10 +48,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 </p>
 
-<!-- ========================= PROFILE VIEWS ========================= -->
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-rahul-07&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,react,js,html,css,git,github,cpp,python&theme=dark&perline=6" />
 </p>
 
 <!-- ========================= PROFILE DETAILS ========================= -->
@@ -72,7 +76,7 @@
 </p>
 
 <!-- ========================= SNAKE CONTRIBUTION ========================= -->
-
+<h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/the-rahul-07/the-rahul-07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
