@@ -46,11 +46,6 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-rahul-07&theme=tokyonight" />
 </p>
 
-<!-- Productive Time -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-rahul-07&theme=tokyonight&utcOffset=5.5" />
-</p>
-
 <!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=the-rahul-07&theme=tokyonight&row=1&column=7" />
