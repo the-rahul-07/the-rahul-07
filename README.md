@@ -1,15 +1,15 @@
 <h1 align="center">Hey 👋, I'm Rahul Gupta</h1>
 
+<h3 align="center">
+🚀 Building • 🌱 Learning • 🤝 Contributing
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;DSA+Enthusiast;Open+Source+Contributor;Learning+Java+and+Spring+Boot;Building+Projects+and+Growing+Every+Day&center=true&width=700&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;DSA+Enthusiast;Open+Source+Contributor;Learning+Java+and+Spring+Boot;Building+Projects+and+Growing+Every+Day">
 </p>
 
 <p align="center">
-  🚀 Building • 🌱 Learning • 🤝 Contributing
-</p>
-<p align="center">
-  🚀 Passionate about problem solving, open source, and continuous learning
+💡 Passionate about problem solving, open source, and continuous learning.
 </p>
 
 
