@@ -55,6 +55,19 @@
   <img width = "100%" src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </p>
 
+<h2 align="center">🏅 GSSoC 2026 Achievements</h2>
+
+<p align="center">
+  <img src="https://gssoc.girlscript.org/badges/milestone/power_contributor.png" width="140" alt="Power Contributor"/>
+  <img src="https://gssoc.girlscript.org/badges/milestone/on_a_roll.png" width="140" alt="On a Roll"/>
+</p>
+
+<p align="center">
+  <img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png" width="120" alt="Rising Star"/>
+  <img src="https://gssoc.girlscript.org/badges/milestone/bounty_master.png" width="120" alt="Bounty Master"/>
+  <img src="https://gssoc.girlscript.org/badges/milestone/building_momentum.png" width="120" alt="Building Momentum"/>
+</p>
+
 <!-- ========================= PROFILE DETAILS ========================= -->
 
 <p align="center">
