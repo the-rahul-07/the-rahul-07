@@ -38,6 +38,10 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,react,js,html,css,git,github,cpp,python&perline=6" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+</p>
+
 <!-- ========================= PROFILE VIEWS ========================= -->
 
 <p align="center">
