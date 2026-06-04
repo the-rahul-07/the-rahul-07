@@ -41,7 +41,7 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
 <!-- Stats + Streak -->
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-rahul-07&theme=tokyonight" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight" />
+  <img width="49%" src="[https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight](https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight)" />
 </p>
 
 <!-- ========================= ACTIVITY GRAPH ========================= -->
