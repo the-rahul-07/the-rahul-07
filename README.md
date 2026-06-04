@@ -3,13 +3,13 @@
 </p> -->
 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700">
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
-</p> -->
+</p>
 
 <h3 align="center">
 🚀 Building • 🌱 Learning • 🤝 Contributing
@@ -17,10 +17,6 @@
 
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;DSA+Enthusiast;Open+Source+Contributor;Learning+Java+and+Spring+Boot" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;DSA+Enthusiast;Open+Source+Contributor;Learning+Java+and+Spring+Boot;Building+Projects+and+Growing+Every+Day">
 </p>
 
 <p align="center">
