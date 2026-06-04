@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I'm Rahul Gupta</h1>
 
-<p align="center">
-  🚀 Building • 🌱 Learning • 🤝 Contributing
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;DSA+Enthusiast;Open+Source+Contributor;Learning+Java+and+Spring+Boot;Building+Projects+and+Growing+Every+Day&center=true&width=700&height=50">
 </p>
 
+<p align="center">
+  🚀 Building • 🌱 Learning • 🤝 Contributing
+</p>
 <p align="center">
   🚀 Passionate about problem solving, open source, and continuous learning
 </p>
