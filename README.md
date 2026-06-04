@@ -60,9 +60,6 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
   <img src="https://streak-stats.vercel.app?user=the-rahul-07&theme=tokyonight" />
 </p>
 
-## 🚀 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+<p align="center">
+  <img src="https://metrics.lecoq.io/the-rahul-07?template=terminal&isocalendar=1&languages=1&achievements=1&followup=1&activity=1" />
+</p>
