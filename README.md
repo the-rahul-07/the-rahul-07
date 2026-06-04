@@ -9,12 +9,6 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
 <h1 align="center">Hey 👋, I'm Rahul Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;DSA+Enthusiast;Open+Source+Contributor;Learning+Java+and+Spring+Boot&center=true&width=700&height=50">
-</p>
-
-<h1 align="center">Hey 👋, I'm Rahul Gupta</h1>
-
-<p align="center">
   🚀 Building • 🌱 Learning • 🤝 Contributing
 </p>
 
