@@ -48,6 +48,13 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 </p>
 
+<!-- ======================== LEETCODE STATS =========================== -->
+<h2 align="center">🏆 LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</p>
+
 <!-- ========================= PROFILE DETAILS ========================= -->
 
 <p align="center">
