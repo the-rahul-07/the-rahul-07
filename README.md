@@ -55,17 +55,6 @@
 </p>
 
 <!-- Stats + Streak -->
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-rahul-07&theme=tokyonight" />
-</td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
-
 <table align="center">
 <tr>
 <td>
