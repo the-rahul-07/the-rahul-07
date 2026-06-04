@@ -19,7 +19,7 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
     <img src="https://skillicons.dev/icons?i=gmail" width="55" />
   </a>
   <a href="https://x.com/RahulGupta3214">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="60" />
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="55" />
   </a>
 </p>
 
