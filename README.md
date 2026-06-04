@@ -66,11 +66,16 @@
 </tr>
 </table>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-rahul-07&theme=tokyonight" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight&hide_border=true" />
-</p>
-
+<table align="center">
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-rahul-07&theme=tokyonight" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
 <!-- ========================= ACTIVITY GRAPH ========================= -->
 
 <p align="center">
