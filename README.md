@@ -23,12 +23,6 @@ Currently learning problem solving 💻 and building strong fundamentals 📘
   </a>
 </p>
 
-<p align="center">
-  <a href="https://x.com/RahulGupta3214">
-    X / @RahulGupta3214
-  </a>
-</p>
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
