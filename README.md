@@ -1,10 +1,5 @@
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Rahul%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p> -->
-
-
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Rahul%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
