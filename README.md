@@ -59,6 +59,7 @@
 
 <p align="center">
   <img src="./assests/gssoc26/gssoc-badge-power_contributor.png" width="110"/>
+  <img src="./assests/gssoc26/gssoc-badge-elite.png" width="110"/>
   <img src="./assests/gssoc26/gssoc-badge-on_a_roll.png" width="110"/>
 </p>
 
