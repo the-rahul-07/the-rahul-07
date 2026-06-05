@@ -63,11 +63,11 @@
   <img src="./assests/gssoc26/gssoc-badge-on_a_roll.png" width="110"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assests/gssoc26/gssoc-badge-rising_star.png" width="95"/>
   <img src="./assests/gssoc26/gssoc-badge-bounty_master.png" width="95"/>
   <img src="./assests/gssoc26/gssoc-badge-building_momentum.png" width="95"/>
-</p>
+</p> -->
 
 <!-- ========================= PROFILE DETAILS ========================= -->
 <h2 align="center">📊 GitHub Analytics</h2>
