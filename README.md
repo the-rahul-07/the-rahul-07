@@ -51,13 +51,6 @@
 <!-- ======================== LEETCODE STATS =========================== -->
 <h2 align="center">🏆 LeetCode Stats</h2>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="40%" />
-  <img src="./assests/leetcode/50daysleetcode.png" width="180" alt="LeetCode 50 Days Badge"/>
-</p>
-
-<h2 align="center">🏆 LeetCode Stats</h2>
-
 <table align="center">
 <tr>
 <td>
