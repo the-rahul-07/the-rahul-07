@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="40%" />
-  <img src="./assests/leetcode/50daysleetcode.png" width="110" alt="LeetCode 50 Days Badge"/>
+  <img src="./assests/leetcode/50daysleetcode.png" width="250" alt="LeetCode 50 Days Badge"/>
 </p>
 
 <h2 align="center">🏅 GSSoC 2026 Achievements</h2>
