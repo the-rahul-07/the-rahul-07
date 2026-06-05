@@ -62,7 +62,7 @@
   <img src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="50%" />
 </td>
 <td align="center">
-  <img src="./assets/leetcode/50-days-badge.png" width="140" />
+   <img src="./assests/leetcode/50daysleetcode.png" width="110" alt="LeetCode 50 Days Badge"/>
 </td>
 </tr>
 </table>
