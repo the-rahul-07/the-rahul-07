@@ -59,7 +59,7 @@
 <table align="center">
 <tr>
 <td align="center">
-  <img src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="650" />
+  <img src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="50%" />
 </td>
 <td align="center">
   <img src="./assets/leetcode/50-days-badge.png" width="140" />
