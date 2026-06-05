@@ -52,9 +52,20 @@
 <h2 align="center">🏆 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="80%" />
+  <img src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="50%" />
   <img src="./assests/leetcode/50daysleetcode.png" width="110" alt="LeetCode 50 Days Badge"/>
 </p>
+
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://leetcard.jacoblin.cool/the_rahul_07?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="650" />
+</td>
+<td align="center">
+  <img src="./assets/leetcode/50-days-badge.png" width="140" />
+</td>
+</tr>
+</table>
 
 <h2 align="center">🏅 GSSoC 2026 Achievements</h2>
 
