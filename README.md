@@ -69,7 +69,7 @@
 <p align="center">
   <img src="./assests/gssoc26/gssoc-badge-power_contributor.png" width="130"/>
   <img src="./assests/gssoc26/gssoc-badge-elite.png" width="170"/>
-  <img src="./assests/gssoc26/gssoc-badge-on_a_roll.png" width="130"/>
+  <img src="./assests/gssoc26/gssoc-badge-prolific.png" width="130"/>
 </p>
 
 <!-- <p align="center">
