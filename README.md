@@ -79,7 +79,7 @@
 </p> -->
 
 <!-- ========================= PROFILE DETAILS ========================= -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=the-rahul-07&theme=tokyonight&hide_border=true" />
@@ -96,7 +96,7 @@
 <img src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight&v=2" />
 </td>
 </tr>
-</table>
+</table> -->
 <!-- ========================= ACTIVITY GRAPH ========================= -->
 
 <p align="center">
