@@ -86,17 +86,17 @@
 </p>
 
 <!-- Stats + Streak -->
-<table align="center">
+<!-- <table align="center">
 <tr>
 <td>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-rahul-07&theme=tokyonight" />
 </td>
-<td>
+<td> -->
 <!-- <img src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight&hide_border=true" /> -->
-<img src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight&v=2" />
+<!-- <img src="https://streak-stats.demolab.com?user=the-rahul-07&theme=tokyonight&v=2" />
 </td>
 </tr>
-</table> -->
+</table> --> -->
 <!-- ========================= ACTIVITY GRAPH ========================= -->
 
 <p align="center">
