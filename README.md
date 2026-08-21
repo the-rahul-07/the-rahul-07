@@ -82,7 +82,7 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-rahul-07&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=the-rahul-07&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- Stats + Streak -->
